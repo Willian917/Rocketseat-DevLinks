@@ -18,8 +18,8 @@ function toggleMode() {
 
 
   if (html.classList.contains("light")) {
-    img.setAttribute("alt", "dwewda")
+    img.setAttribute("alt", "Foto com fundo claro")
   } else {
-    img.setAttribute("alt", "aadawds")
+    img.setAttribute("alt", "Foto com fundo escuro")
   }*/
 }
